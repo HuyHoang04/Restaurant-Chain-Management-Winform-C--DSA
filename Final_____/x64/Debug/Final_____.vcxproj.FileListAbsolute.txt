@@ -1,0 +1,45 @@
+C:\Users\HALO\Desktop\Test OOP\Final_____\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+C:\Users\HALO\Desktop\Test OOP\Final_____\Final_____\x64\Debug\Final.CustomerForm.resources
+C:\Users\HALO\Desktop\Test OOP\Final_____\Final_____\x64\Debug\Final.ManagerForm.resources
+C:\Users\HALO\Desktop\Test OOP\Final_____\Final_____\x64\Debug\Final.MenuForm.resources
+C:\Users\HALO\Desktop\Test OOP\Final_____\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+F:\DATA str\Final_____\Final_____\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+F:\DATA str\Final_____\Final_____\Final_____\x64\Debug\Final.CustomerForm.resources
+F:\DATA str\Final_____\Final_____\Final_____\x64\Debug\Final.ManagerForm.resources
+F:\DATA str\Final_____\Final_____\Final_____\x64\Debug\Final.MenuForm.resources
+F:\DATA str\Final_____\Final_____\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+C:\Users\HALO\Desktop\DSA\DSA\Final_____\Final_____\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+C:\Users\HALO\Desktop\DSA\DSA\Final_____\Final_____\Final_____\x64\Debug\Final.CustomerForm.resources
+C:\Users\HALO\Desktop\DSA\DSA\Final_____\Final_____\Final_____\x64\Debug\Final.ManagerForm.resources
+C:\Users\HALO\Desktop\DSA\DSA\Final_____\Final_____\Final_____\x64\Debug\Final.MenuForm.resources
+C:\Users\HALO\Desktop\DSA\DSA\Final_____\Final_____\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+V:\UTE DOCS\2nd\Data structure and Algorithm\Final project\Github\Final_____\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+V:\UTE DOCS\2nd\Data structure and Algorithm\Final project\Github\Final_____\Final_____\x64\Debug\Final.CustomerForm.resources
+V:\UTE DOCS\2nd\Data structure and Algorithm\Final project\Github\Final_____\Final_____\x64\Debug\Final.ManagerForm.resources
+V:\UTE DOCS\2nd\Data structure and Algorithm\Final project\Github\Final_____\Final_____\x64\Debug\Final.MenuForm.resources
+V:\UTE DOCS\2nd\Data structure and Algorithm\Final project\Github\Final_____\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+F:\DATA str\Final_____\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+F:\DATA str\Final_____\Final_____\x64\Debug\Final.CustomerForm.resources
+F:\DATA str\Final_____\Final_____\x64\Debug\Final.ManagerForm.resources
+F:\DATA str\Final_____\Final_____\x64\Debug\Final.MenuForm.resources
+F:\DATA str\Final_____\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+C:\Users\HALO\Desktop\DSA CHAIN\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+C:\Users\HALO\Desktop\DSA CHAIN\Final_____\x64\Debug\Final.CustomerForm.resources
+C:\Users\HALO\Desktop\DSA CHAIN\Final_____\x64\Debug\Final.ManagerForm.resources
+C:\Users\HALO\Desktop\DSA CHAIN\Final_____\x64\Debug\Final.MenuForm.resources
+C:\Users\HALO\Desktop\DSA CHAIN\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+C:\Users\HALO\Desktop\DSACHAIN1\DSA\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+C:\Users\HALO\Desktop\DSACHAIN1\DSA\Final_____\x64\Debug\Final.CustomerForm.resources
+C:\Users\HALO\Desktop\DSACHAIN1\DSA\Final_____\x64\Debug\Final.ManagerForm.resources
+C:\Users\HALO\Desktop\DSACHAIN1\DSA\Final_____\x64\Debug\Final.MenuForm.resources
+C:\Users\HALO\Desktop\DSACHAIN1\DSA\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+C:\Users\HALO\Desktop\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+C:\Users\HALO\Desktop\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final.CustomerForm.resources
+C:\Users\HALO\Desktop\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final.ManagerForm.resources
+C:\Users\HALO\Desktop\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final.MenuForm.resources
+C:\Users\HALO\Desktop\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
+F:\DATA str\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final_____.vcxproj.AssemblyReference.cache
+F:\DATA str\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final.CustomerForm.resources
+F:\DATA str\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final.ManagerForm.resources
+F:\DATA str\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final.MenuForm.resources
+F:\DATA str\N2_LaHuyHoang_NguyenHuuDanh_NguyenDucVinh_DoMInhKhoa\DSA\Final_____\x64\Debug\Final_____.vcxproj.GenerateResource.cache
